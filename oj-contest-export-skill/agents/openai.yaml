@@ -1,0 +1,4 @@
+interface:
+  display_name: "OJ Contest Export"
+  short_description: "Export OJ contest problems into clean study documents."
+  default_prompt: "Export contest problems from an OJ class page and format them as Markdown/JSON."
